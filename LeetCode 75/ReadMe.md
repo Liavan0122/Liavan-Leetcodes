@@ -8,6 +8,7 @@
 | Two Pointers  |  |  |
 | [283. Move Zeroes](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/283.%20Move%20Zeroes.md)  | 有看Hint | Easy |
 | [11. Container With Most Water](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/11.%20Container%20With%20Most%20Water.md) | 無須提示 | Medium |
+| [392. Is Subsequence](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/392.%20Is%20Subsequence.md) | 無須提示 | Easy |
 | Hash Map / Set  |  |  |
 | [2215. Find the Difference of Two Arrays](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.md)  | 無須提示 | Easy |
 | Prefix Sum  |  |  |
