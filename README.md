@@ -3,4 +3,4 @@
 From 3/17 ~  
 
 ### Today Leetcode - daily 
-[2873. Maximum Value of an Ordered Triplet I](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/Array/2873.%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20I.md)
+[1863. Sum of All Subset XOR Totals](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/Bit%20Manipulation/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.md)
