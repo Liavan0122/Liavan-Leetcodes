@@ -11,6 +11,7 @@
 | [11. Container With Most Water](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/11.%20Container%20With%20Most%20Water.md) | 無須提示 | Medium |
 | [392. Is Subsequence](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/392.%20Is%20Subsequence.md) | 無須提示 | Easy |
 | [1679. Max Number of K-Sum Pairs](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1679.%20Max%20Number%20of%20K-Sum%20Pairs.md) | 無須提示 | Medium |
+| [345. Reverse Vowels of a String](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/345.%20Reverse%20Vowels%20of%20a%20String.md) | 無須提示 | Easy |
 | Hash Map / Set  |  |  |
 | [2215. Find the Difference of Two Arrays](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.md)  | 無須提示 | Easy |
 | [1207. Unique Number of Occurrences](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1207.%20Unique%20Number%20of%20Occurrences.md)  | 無須提示 | Easy |
