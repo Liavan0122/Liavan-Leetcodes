@@ -28,3 +28,7 @@
 | Sliding Windows  |  |  |
 | [643. Maximum Average Subarray I](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/643.%20Maximum%20Average%20Subarray%20I.md)  | 無須提示 | Easy |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.md)  | 無須提示 | Medium |
+| Queue  |  |  |
+| [933. Number of Recent Calls](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/933.%20Number%20of%20Recent%20Calls.md)  | 無須提示 | Easy |
+| [649. Dota2 Senate](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/649.%20Dota2%20Senate.md)  | 有靠GPT | Medium |
+
