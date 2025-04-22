@@ -31,4 +31,7 @@
 | Queue  |  |  |
 | [933. Number of Recent Calls](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/933.%20Number%20of%20Recent%20Calls.md)  | 無須提示 | Easy |
 | [649. Dota2 Senate](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/649.%20Dota2%20Senate.md)  | 有靠GPT | Medium |
+| Linked List  |  |  |
+| [206. Reverse Linked List](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/206.%20Reverse%20Linked%20List.md)  | 無須提示 | Easy |
+| [2095. Delete the Middle Node of a Linked List](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/649.%20Dota2%20Senate.md)  | 無須提示 | Medium |
 
