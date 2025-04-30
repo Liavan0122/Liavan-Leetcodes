@@ -25,6 +25,7 @@
 | Binary Tree - DFS  |  |  |
 | [1448. Count Good Nodes in Binary Tree](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md)  | 無須提示 | Medium |
 | [104. Maximum Depth of Binary Tree](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  | 無須提示 | Easy |
+| [872. Leaf-Similar Trees](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/872.%20Leaf-Similar%20Trees.md)  | 無須提示 | Easy |
 | Sliding Windows  |  |  |
 | [643. Maximum Average Subarray I](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/643.%20Maximum%20Average%20Subarray%20I.md)  | 無須提示 | Easy |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.md)  | 無須提示 | Medium |
