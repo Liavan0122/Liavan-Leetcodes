@@ -35,4 +35,7 @@
 | Linked List  |  |  |
 | [206. Reverse Linked List](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/206.%20Reverse%20Linked%20List.md)  | 無須提示 | Easy |
 | [2095. Delete the Middle Node of a Linked List](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.md)  | 無須提示 | Medium |
+| DP - 1D  |  |  |
+| [1137. N-th Tribonacci Number](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1137.%20N-th%20Tribonacci%20Number.md)  | 無須提示 | Easy |
+| [746. Min Cost Climbing Stairs](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/746.%20Min%20Cost%20Climbing%20Stairs.md)  | 無須提示 | Easy |
 
