@@ -8,7 +8,6 @@
 | [605. Can Place Flowers](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/605.%20Can%20Place%20Flowers.md)  | 無須提示 | Easy |
 | [334. Increasing Triplet Subsequence](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/334.%20Increasing%20Triplet%20Subsequence.md)  | O(1)方法有看code | Medium |
 | [443. String Compression](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/443.%20String%20Compression.md)  | 無須提示 | Medium |
-
 | Two Pointers  |  |  |
 | [283. Move Zeroes](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/283.%20Move%20Zeroes.md)  | 有看Hint | Easy |
 | [11. Container With Most Water](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/11.%20Container%20With%20Most%20Water.md) | 無須提示 | Medium |
@@ -20,6 +19,7 @@
 | [1207. Unique Number of Occurrences](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1207.%20Unique%20Number%20of%20Occurrences.md)  | 無須提示 | Easy |
 | Prefix Sum  |  |  |
 | [724. Find Pivot Index](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/724.%20Find%20Pivot%20Index.md)  | 無須提示 | Easy |
+| [238. Product of Array Except Self](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/238.%20Product%20of%20Array%20Except%20Self.md)  | 有看題示 | Medium |
 | Stack  |  |  |
 | [2390. Removing Stars From a String](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/2390.%20Removing%20Stars%20From%20a%20String.md)  | 無須提示 | Medium |
 | [735. Asteroid Collision](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/735.%20Asteroid%20Collision.md)  | 無須提示 | Medium |
