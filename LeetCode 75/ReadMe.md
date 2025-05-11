@@ -7,6 +7,8 @@
 | [1431. Kids With the Greatest Number of Candies](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md)  | 無須提示 | Easy |
 | [605. Can Place Flowers](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/605.%20Can%20Place%20Flowers.md)  | 無須提示 | Easy |
 | [334. Increasing Triplet Subsequence](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/334.%20Increasing%20Triplet%20Subsequence.md)  | O(1)方法有看code | Medium |
+| [443. String Compression](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/443.%20String%20Compression.md)  | 無須提示 | Medium |
+
 | Two Pointers  |  |  |
 | [283. Move Zeroes](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/283.%20Move%20Zeroes.md)  | 有看Hint | Easy |
 | [11. Container With Most Water](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/11.%20Container%20With%20Most%20Water.md) | 無須提示 | Medium |
