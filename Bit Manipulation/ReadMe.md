@@ -2,4 +2,4 @@
 | :-- | --: |:--:|
 |   |  |  |
 | [1863. Sum of All Subset XOR Totals](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/Bit%20Manipulation/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.md)  | 查看subset寫法  | Easy |
-|  |   |  |
+| [136. Single Number](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/Bit%20Manipulation/136.%20Single%20Number.md) | 無須提示  | Easy |
