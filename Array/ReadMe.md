@@ -10,6 +10,7 @@
 | [2022. Convert 1D Array Into 2D Array](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/Array/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)  | 無須提示  | Easy |
 | [1295. Find Numbers with Even Number of Digits](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/Array/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md)  | 無須提示  | Easy |
 | [2942. Find Words Containing Character](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/Array/2942.%20Find%20Words%20Containing%20Character.md)  | 無須提示  | Easy |
+| [674. Longest Continuous Increasing Subsequence](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md)  | 無須提示  | Easy |
 
 
 
