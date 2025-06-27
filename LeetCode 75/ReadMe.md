@@ -27,8 +27,8 @@
 | [735. Asteroid Collision](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/735.%20Asteroid%20Collision.md)  | 無須提示 | Medium |
 | [394. Decode String](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/394.%20Decode%20String.md)  | 必要複習 | Medium |
 | Binary Search  |  |  |
-| [374. Guess Number Higher or Lower](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1137.%20N-th%20Tribonacci%20Number.md)  | 無須提示 | Easy |
-| [2300. Successful Pairs of Spells and Potions](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/746.%20Min%20Cost%20Climbing%20Stairs.md)  | 無須提示 | Medium |
+| [374. Guess Number Higher or Lower](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/374.%20Guess%20Number%20Higher%20or%20Lower.md)  | 無須提示 | Easy |
+| [2300. Successful Pairs of Spells and Potions](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.md)  | 無須提示 | Medium |
 | [162. Find Peak Element](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1137.%20N-th%20Tribonacci%20Number.md)  | 無須提示 | Medium |
 | [875. Koko Eating Bananas](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/746.%20Min%20Cost%20Climbing%20Stairs.md)  | 無須提示 | Medium |
 | Binary Tree - DFS  |  |  |
