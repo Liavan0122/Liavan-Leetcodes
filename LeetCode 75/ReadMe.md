@@ -26,6 +26,11 @@
 | [2390. Removing Stars From a String](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/2390.%20Removing%20Stars%20From%20a%20String.md)  | 無須提示 | Medium |
 | [735. Asteroid Collision](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/735.%20Asteroid%20Collision.md)  | 無須提示 | Medium |
 | [394. Decode String](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/394.%20Decode%20String.md)  | 必要複習 | Medium |
+| Binary Search  |  |  |
+| [374. Guess Number Higher or Lower](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1137.%20N-th%20Tribonacci%20Number.md)  | 無須提示 | Easy |
+| [2300. Successful Pairs of Spells and Potions](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/746.%20Min%20Cost%20Climbing%20Stairs.md)  | 無須提示 | Medium |
+| [162. Find Peak Element](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1137.%20N-th%20Tribonacci%20Number.md)  | 無須提示 | Medium |
+| [875. Koko Eating Bananas](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/746.%20Min%20Cost%20Climbing%20Stairs.md)  | 無須提示 | Medium |
 | Binary Tree - DFS  |  |  |
 | [1448. Count Good Nodes in Binary Tree](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md)  | 無須提示 | Medium |
 | [104. Maximum Depth of Binary Tree](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  | 無須提示 | Easy |
