@@ -50,4 +50,4 @@
 | [1137. N-th Tribonacci Number](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1137.%20N-th%20Tribonacci%20Number.md)  | 無須提示 | Easy |
 | [746. Min Cost Climbing Stairs](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/746.%20Min%20Cost%20Climbing%20Stairs.md)  | 無須提示 | Easy |
 | Intervals  |  |  |
-| [435. Non-overlapping Intervals](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/1137.%20N-th%20Tribonacci%20Number.md)  | 無須提示 | Medium |
+| [435. Non-overlapping Intervals](https://github.com/Liavan0122/Liavan-Leetcodes/blob/main/LeetCode%2075/435.%20Non-overlapping%20Intervals.md)  | 無須提示 | Medium |
