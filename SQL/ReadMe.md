@@ -1,4 +1,4 @@
-| 題目 | 反思 |  |
+| 題目 | 反思 | 難度 |
 | :-- | --: |:--:|
 | **Select** |  |  |
 | 1757. Recyclable and Low Fat Products  |  | easy |
